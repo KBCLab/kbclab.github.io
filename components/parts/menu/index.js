@@ -7,7 +7,7 @@ export default function Menu({ }) {
       <div className="card h-100">
         <div className="card-body p-4">
         <div className="text-center border-bottom">
-            <h5 className="fw-bolder">blog Menu</h5>
+            <h5 className="fw-bolder">メニュー</h5>
         </div>
         <table className="table">
             <tbody>

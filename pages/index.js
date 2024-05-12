@@ -40,7 +40,7 @@ export default function Home({ }) {
   return (
     <Layout>
       <Head>
-        <title>Techvenience - トップ -</title>
+        <title>KBWord - 情報ストック場</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className="container mt-5">

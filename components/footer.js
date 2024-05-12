@@ -19,7 +19,7 @@ export default function Footer({  }) {
             </div>
           </div>
           <div className="row ">
-            <p className="m-0 pt-5 text-center text-white">&copy; Techvenience 2023</p>
+            <p className="m-0 pt-5 text-center text-white">&copy; KBWord 2024</p>
           </div>
         </div>
     </footer>

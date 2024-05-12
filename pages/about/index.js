@@ -24,7 +24,7 @@ export default function About({  }) {
               <div className="col mb-5" >
                 <Aboutparts />
               </div>
-              {/* 著者について */}
+              {/* Founder */}
               <div className="col mb-5" >
                 <Author />
               </div>

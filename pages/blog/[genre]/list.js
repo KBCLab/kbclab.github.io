@@ -11,7 +11,7 @@ export default function Home({ posts, genre, pageTitle, tagList }) {
   return (
     <Layout>
       <Head>
-        <title>{pageTitle} - Techvenience -</title>
+        <title>{pageTitle} KBWord </title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className="container mt-5">
@@ -30,7 +30,6 @@ export default function Home({ posts, genre, pageTitle, tagList }) {
                 return (
                     <div className="col mb-5" key={post.id}>
                         <div className="card h-100">
-                            <img className="card-img-top border-bottom img-responsive" src={post.properties.Image.url} alt="..." />
                             <div className="card-body p-4">
                                 <div className="text-center">
                                     <h5 className="fw-bolder"><Text text={post.properties.Name.title} /></h5>

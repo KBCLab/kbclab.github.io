@@ -11,7 +11,7 @@ export default function Tags({ posts, tagList, genre, pageTitle, tagName }) {
   return (
     <Layout>
       <Head>
-        <title>{tagName} / {pageTitle} - Techvenience - </title>
+        <title>{tagName} / {pageTitle} - KBWord - </title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className="container mt-5">

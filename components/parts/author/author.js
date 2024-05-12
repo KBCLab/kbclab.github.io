@@ -4,7 +4,7 @@ export default function Author({}) {
         <div className="card h-100">
           <div className="card-body p-4">
             <div className="text-center border-bottom">
-              <h5 className="fw-bolder">著者</h5>
+              <h5 className="fw-bolder">Founder</h5>
             </div>
             <Authordetail />
           </div>
