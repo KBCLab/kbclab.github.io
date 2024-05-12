@@ -64,17 +64,17 @@ export const AD_CLIENT_ID = process.env.NEXT_PUBLIC_AD_CLIENT_ID
 export const POPULAR_LIST = [
     {
         title: '録音基本講座#1',
-        url: 'https://duotaro.github.io/blog/ai/detail/8395fda2-77c3-4d23-855c-82ae6c9cf985/'
+        url: 'https://kurokitabc.github.io/blog/recording/detail/452b85aa-a89b-4fd3-bc91-0c803acd7436/'
     },
     {
         title: '映像の色調補正をやってみよう',
-        url: 'https://duotaro.github.io/blog/management/detail/e72dfce4-ff9e-4e3e-aa30-d0d753f2a605/'
+        url: 'https://kurokitabc.github.io/blog/movie/detail/bfbbc658-e729-4320-a975-290ad3e2cfc2/'
     },
 ]
 /** おすすめ記事 */
 export const RECOMMEND_LIST = [
     {
         title: '他のPCで編集を続けたいときのやり方',
-        url: 'https://duotaro.github.io/blog/ai/detail/8395fda2-77c3-4d23-855c-82ae6c9cf985/'
+        url: 'https://kurokitabc.github.io/blog/tips/detail/5dcb4dfa-02cd-4f62-9747-acb3cf7168f2/'
     },
 ]
