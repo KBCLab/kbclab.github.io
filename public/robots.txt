@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://kbclab.github.io/
+Host: https://kurokitabc.github.io/
 
 # Sitemaps
-Sitemap: https://kbclab.github.io/sitemap.xml
+Sitemap: https://kurokitabc.github.io/sitemap.xml
