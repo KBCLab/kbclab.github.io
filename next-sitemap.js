@@ -1,5 +1,5 @@
 module.exports = {
-  siteUrl: 'https://kbclab.github.io/',
+  siteUrl: 'https://kurokitabc.github.io/',
     generateRobotsTxt: true,
     sitemapSize: 7000,
     outDir: './public',
