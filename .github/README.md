@@ -34,11 +34,6 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-### tweet埋め込み
-https://blog.35d.jp/2020-04-10-notion-blog-twitter-card
-これを参考に
-
-
 ### deploy
 
 ```bash
